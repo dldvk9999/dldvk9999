@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=auto&color=abdee6&height=50px&section=header&text=dldvk9999&fontSize=16px" />
-
-<img src="https://github.com/dldvk9999" />
+<img src="https://capsule-render.vercel.app/api?type=auto&color=abdee6&height=50&section=header&text=dldvk9999&fontSize=16" />
 
 <div align=center>
 <h3>반갑습니다! 박종근입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
@@ -22,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHubdldvk9999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldvk9999)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHubdldvk9999)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldvk9999)](https://github.com/anuraghazra/github-readme-stats)
 </div>
