@@ -27,7 +27,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldvk9999)]
-[![dldvk9999's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldvk9999)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redcontroller&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dldvk9999)
+![dldvk9999's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldvk9999)
 </div>
